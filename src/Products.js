@@ -6,7 +6,7 @@ const productsData = [
     id: 1,
     name: 'Portavia Alto Рюкзак',
     price: 245,
-    image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=500&fit=crop',
+    image: '/1.jfif',
     category: 'Ноутбук 15"',
     isNew: true
   },
@@ -14,7 +14,7 @@ const productsData = [
     id: 2,
     name: 'Portavia Серия Pro',
     price: 245,
-    image: 'https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=500&h=500&fit=crop',
+    image: '/2.jfif',
     category: 'Ноутбук 13"',
     isNew: false
   },
@@ -22,7 +22,7 @@ const productsData = [
     id: 3,
     name: 'Portavia Aria Slim',
     price: 245,
-    image: 'https://images.unsplash.com/photo-1581605405669-fcdf81165afa?w=500&h=500&fit=crop',
+    image: '/3.jfif',
     category: 'Ноутбук 15"',
     isNew: true
   },
@@ -30,7 +30,7 @@ const productsData = [
     id: 4,
     name: 'Portavia Echo 28L',
     price: 245,
-    image: 'https://images.unsplash.com/photo-1577733966973-d680bffd2e80?w=500&h=500&fit=crop',
+    image: '/4.jfif',
     category: 'Ноутбук 17"',
     isNew: false
   },
@@ -38,7 +38,7 @@ const productsData = [
     id: 5,
     name: 'Большой компактный слинг',
     price: 245,
-    image: 'https://images.unsplash.com/photo-1622560480654-d96214fdc887?w=500&h=500&fit=crop',
+    image: '/5.jfif',
     category: 'Слинг сумка',
     isNew: false
   },
@@ -46,7 +46,7 @@ const productsData = [
     id: 6,
     name: 'Portavia Drift Air',
     price: 245,
-    image: 'https://images.unsplash.com/photo-1546938576-6e6a64f317cc?w=500&h=500&fit=crop',
+    image: '/7.jfif',
     category: 'Ноутбук 13"',
     isNew: true
   }

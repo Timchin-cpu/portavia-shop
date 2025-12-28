@@ -7,7 +7,7 @@ const Blog = () => {
       id: 1,
       title: 'Как упаковаться умно для 3-дневной рабочей поездки',
       description: 'Узнайте, как подойти к упаковке вашего рюкзака с умом, чтобы опыт был таким же легким, как путь.',
-      image: 'https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&h=400&fit=crop',
+      image: '/8.jfif',
       author: 'Sean Tui',
       date: '5 мин'
     },
@@ -15,7 +15,7 @@ const Blog = () => {
       id: 2,
       title: '5 способов держать ваше техническое снаряжение организованным в пути',
       description: 'Забудьте о запутанных кабелях и блуждающих зарядках — вот надежные способы держать вашу технику организованной.',
-      image: 'https://images.unsplash.com/photo-1517430816045-df4b7de01f0d?w=600&h=400&fit=crop',
+      image: '/8.jfif',
       author: 'Taylor K.',
       date: 'TECH TALK'
     },
@@ -23,7 +23,7 @@ const Blog = () => {
       id: 3,
       title: 'Почему расширяемые рюкзаки — будущее городских путешествий',
       description: 'Откройте для себя, как расширяемые рюкзаки революционизируют способ, которым мы носим наши вещи.',
-      image: 'https://images.unsplash.com/photo-1622560480685-bbd0f81e8f9c?w=600&h=400&fit=crop',
+      image: '/8.jfif',
       author: 'Travel Tips',
       date: '8 мин'
     }

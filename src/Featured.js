@@ -7,19 +7,19 @@ const Featured = () => {
       id: 1,
       name: 'Portavia Activity 28L',
       price: 245,
-      image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop'
+      image: '/1.jfif'
     },
     {
       id: 2,
       name: 'Большой компактный слинг',
       price: 245,
-      image: 'https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=400&h=400&fit=crop'
+      image: '/2.jfif'
     },
     {
       id: 3,
       name: 'Portavia Drift Air',
       price: 245,
-      image: 'https://images.unsplash.com/photo-1581605405669-fcdf81165afa?w=400&h=400&fit=crop'
+      image: '/3.jfif'
     }
   ];
 
